@@ -1,11 +1,35 @@
 ---
-title: "m-dewey.github.io"
+title: "Maddy Dewey"
+image: water1.jpg
+about: 
+  template: trestles
+  image-shape: rounded
+  image-width: 17em
+  links:
+    - text: LinkedIn
+      href: www.linkedin.com/in/maddy-dewey
+    - text: GitHub
+      href: https://github.com/m-dewey
+    - text: Email
+      href: mailto:maddy.dewey@colostate.edu
 ---
 
-This is a Quarto website.
+**Purpose-Driven Problem Solver \| Where People, Data, and Water Intersect**
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+------------------------------------------------------------------------
 
-```{r}
-1 + 1
-```
+My focus is water resources. I’ve spent the past decade honing skills in stakeholder relations and data science, ultimately searching for a meaningful field to apply myself. My lightbulb moment struck when I learned about work in water; it's dynamic, community-centered, data-driven, and multidisciplinary. That has become my *why*.
+
+------------------------------------------------------------------------
+
+**EDUCATION**
+
+<small>Colorado State University</small>
+
+{{< fa graduation-cap >}} PSM in Ecosystem Science & Sustainability \| Expected May 2027
+
+{{< fa graduation-cap >}} Certificate in Water Resources \| Expected May 2027
+
+<small>Lewis & Clark College</small>
+
+{{< fa graduation-cap >}} BA Biochemistry \| 2014-2018

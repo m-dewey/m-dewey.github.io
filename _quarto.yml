@@ -3,20 +3,36 @@ project:
   output-dir: docs
 
 website:
-  title: "m-dewey.github.io"
-  navbar:
-    left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
+  title: "Maddy Dewey"
+  search:
+    location: sidebar
+    type: textbox
+  sidebar:
+   style: "docked"
+   search: true
+   logo: headshot.jpg
+   about:
+      logo-shape: round
+      logo-width: 15em
+   logo-alt: "Site Logo"
+   pinned: true
+   align: "left"
+   contents:
+    - href: index.qmd
+      text: About
+    - href: projects.qmd
+      text: Projects
+    - href: coursework.qmd
+      text: Expertise
+  page-footer:
+    left: Copyright 2026, Maddy Dewey
 
 format:
   html:
-    theme:
-      - cosmo
-      - brand
-    css: styles.css
+    theme: styles.scss
+    mainfont: Oxygen
     toc: true
+    page-layout: full
 
 editor: visual
 

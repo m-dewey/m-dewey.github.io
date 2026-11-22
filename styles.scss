@@ -1,0 +1,52 @@
+/*-- scss:defaults --*/
+
+//Import Google fonts
+@import url('https://fonts.googleapis.com/css2?family=Oxygen:wght@300;400;700&display=swap');
+
+// Colors
+$primary_blue: #365F6B;
+$accent_blue: #A9C1C5;
+$background_white: #F4F5F2;
+$sectionals_gray: #D8DFDE;
+$text_slate: #26383B;
+$buttons_sand: #A88768;
+/*-- scss:defaults --*/
+
+// Base document colors
+$navbar-bg: $primary_blue; // navbar
+$navbar-fg: $background_white; // navbar foreground elements
+$navbar-hl: $buttons_sand; // highlight color when hovering over navbar links
+$body-bg: $background_white; // page background 
+$body-color: $text_slate; // page text 
+$footer-bg: $accent_blue; // footer 
+$link-color: $primary_blue; // hyperlinks
+$sidebar-bg: $primary_blue; // sidebar background
+
+// Inline code
+$code-bg: $sectionals_gray; // inline code background color
+$code-color: $text_slate; // inline code text color
+
+/*-- scss:rules --*/
+
+h1, h2 {
+  letter-spacing: 3px;
+  font-weight: 300;
+}
+
+.title {
+  color: $primary_blue;
+}
+
+.center-text {
+  text-align: center;
+}
+
+.orange-text {
+  color: $orange;
+}
+
+.sidebar-logo {
+  border-radius: 50%;
+  object-fit: cover;
+  aspect-ratio: 1/1;
+  }

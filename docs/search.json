@@ -1,10 +1,13 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "m-dewey.github.io",
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "this is an &lt;h1&gt; element\n\n\nthis is an &lt;h1&gt; element of class title\n\n\nthis is a &lt;p&gt; element\n\n\nthis is a &lt;p&gt; element of class title\n\n— # three dashes is markdown syntax for creating a horizontal line across your page\n\nThis paragraph is orange.\n\n\nThis paragraph is centered.\n\n\nThis paragraph has no styling.\n\n\nThis level-2 header is centered\n\n\n\nThis level-3 header is both centered and orange\n\n\nThis paragraph is orange and bolded using markdown syntax (yes, you can combine markdown and html!).\n\n\nQuarto syntax\nSome text with just this section styled\n\n\nHTML syntax\n\nSome text with just this section styled\n\n\n\nQuarto syntax\n\nSome element (e.g. text) to style\n\n\n\nHTML syntax\n\nSome element (e.g. text) to style",
+    "crumbs": [
+      "Projects"
+    ]
   },
   {
     "objectID": "about.html",
@@ -12,5 +15,15 @@
     "title": "About",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Maddy Dewey",
+    "section": "",
+    "text": "Purpose-Driven Problem Solver | Where People, Data, and Water Intersect\n\nMy focus is water resources. I’ve spent the past decade honing skills in stakeholder relations and data science, ultimately searching for a meaningful field to apply myself. My lightbulb moment struck when I learned about work in water; it’s dynamic, community-centered, data-driven, and multidisciplinary. That has become my why.\n\nEDUCATION\nColorado State University\n PSM in Ecosystem Science & Sustainability | Expected May 2027\n Certificate in Water Resources | Expected May 2027\nLewis & Clark College\n BA Biochemistry | 2014-2018",
+    "crumbs": [
+      "About"
+    ]
   }
 ]
